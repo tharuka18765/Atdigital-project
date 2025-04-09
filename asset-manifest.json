@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Atdigital-project/static/css/main.f87586a6.css",
-    "main.js": "/Atdigital-project/static/js/main.0d954272.js",
+    "main.js": "/Atdigital-project/static/js/main.41793e0d.js",
     "static/js/453.171ddc7f.chunk.js": "/Atdigital-project/static/js/453.171ddc7f.chunk.js",
     "index.html": "/Atdigital-project/index.html",
     "main.f87586a6.css.map": "/Atdigital-project/static/css/main.f87586a6.css.map",
-    "main.0d954272.js.map": "/Atdigital-project/static/js/main.0d954272.js.map",
+    "main.41793e0d.js.map": "/Atdigital-project/static/js/main.41793e0d.js.map",
     "453.171ddc7f.chunk.js.map": "/Atdigital-project/static/js/453.171ddc7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f87586a6.css",
-    "static/js/main.0d954272.js"
+    "static/js/main.41793e0d.js"
   ]
 }
